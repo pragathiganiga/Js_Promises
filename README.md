@@ -43,12 +43,13 @@ This is a simple **To-Do List** web application that allows users to add tasks a
 - Completed tasks have a **line-through effect**.
 
 ## How to Run
+[Live Demo](https://jspromisesexaple.netlify.app/)
 1. Clone or download the repository.
 2. Open `index.html` in a web browser.
 3. Add tasks and mark them as completed!
 
 ## Preview
-![To-Do List Preview](https://jspromisesexaple.netlify.app/)
+![To-Do List Preview](https://via.placeholder.com/600x300.png?text=To-Do+List+App)
 
 ## Future Enhancements
 - Add task persistence using **Local Storage**.
