@@ -48,9 +48,6 @@ This is a simple **To-Do List** web application that allows users to add tasks a
 2. Open `index.html` in a web browser.
 3. Add tasks and mark them as completed!
 
-## Preview
-![To-Do List Preview](https://via.placeholder.com/600x300.png?text=To-Do+List+App)
-
 ## Future Enhancements
 - Add task persistence using **Local Storage**.
 - Implement a task removal feature.
